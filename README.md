@@ -31,7 +31,7 @@ Full-stack e-commerce application built with React, Vite, TypeScript, Express.js
 - Swagger/OpenAPI documentation
 - Deployment-ready project structure
 
-Repo: https://github.com/rishabhgoyal121/tamales-commerce
+Repo: [github.com/rishabhgoyal121/tamales-commerce](https://github.com/rishabhgoyal121/tamales-commerce)
 
 ### Chill Zone
 
@@ -44,7 +44,7 @@ Full-stack entertainment discovery app for movies, TV shows, and games.
 - Fallback content snapshot for frontend reliability
 - Netlify + Render deployment setup
 
-Repo: https://github.com/rishabhgoyal121/chill-zone
+Repo: [github.com/rishabhgoyal121/chill-zone](https://github.com/rishabhgoyal121/chill-zone)
 
 ### PursueIt Scroller
 
@@ -55,13 +55,13 @@ Interactive D3.js-based visualization and storytelling experience.
 - Interactive frontend experience
 - Data visualization focused UI
 
-Repo: https://github.com/rishabhgoyal121/PursueIt-Scroller
+Repo: [github.com/rishabhgoyal121/PursueIt-Scroller](https://github.com/rishabhgoyal121/PursueIt-Scroller)
 
 ## Portfolio
 
-https://rishabh-site.lovable.app/
+[rishabh-site.lovable.app](https://rishabh-site.lovable.app/)
 
 ## Contact
 
-Email: rishabhgoyal121@gmail.com  
-LinkedIn: https://linkedin.com/in/rishabhgoyal121
+Email: [rishabhgoyal121@gmail.com](mailto:rishabhgoyal121@gmail.com)  
+LinkedIn: [linkedin.com/in/rishabhgoyal121](https://linkedin.com/in/rishabhgoyal121)

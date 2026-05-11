@@ -27,3 +27,11 @@ This document tracks major and minor decisions for the profile repository.
   - Move all nested repositories immediately before profile commit.
 - Rationale: Prevents accidental inclusion of unrelated repositories in profile-repo commits.
 - Impact: Profile repository remains clean and dedicated to profile documentation files.
+
+### D-004: Standardize Clickable README Links for Recruiter Navigation
+- Decision: Convert plain-text external references (project repos, portfolio, email, LinkedIn) to labeled Markdown links in the profile README.
+- Alternatives considered:
+  - Keep plain URL text.
+  - Convert only repository links and leave contact/portfolio plain.
+- Rationale: Recruiters can navigate faster from profile to proof-of-work and contact channels.
+- Impact: Profile README now has consistent one-click navigation across all key external references.
